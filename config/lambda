@@ -1,0 +1,8 @@
+export PYTHONPATH='app/'
+export DB_HOST=
+export DB_PORT=
+export DB_DBNAME=
+export DB_TABLE=
+export DB_USER=
+export DB_PASSWORD=
+export DB_QUERY=
